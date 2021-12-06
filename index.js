@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const secret = 'OTA0NjMyMzk0MTUyMjgwMDY0.YX-Wkg.1-koyjAohtcxkeK-QCoKAQvNEG4';
+const secret = Secret;
 const PREFIX = ',';
 const { Client, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });

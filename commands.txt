@@ -1,0 +1,11 @@
+,help command- Brings you to this page YAY!|Sends the file as well.
+,ping command- Responds with @username,🎾Pong.
+,website command- Shows my yt and my website.
+,info <args> command- if you only send ',info' then it will shoot an error!
+,embed command- it will show an embed about you.
+,clear <number of msg> command- It will clear the previous messages. (*it depends on the number you enter*)
+,code command- It will send the link for the code of the bot. (https://pastebin.com/Md7jHJvu)
+NEW:-
+,quote command- It will send a random quote to inspire you day!!.
+,nick <nick you want to keep> command- Set your own nickname.
+                                       More Features coming SOON!
